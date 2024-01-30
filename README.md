@@ -1,6 +1,6 @@
 # Deep Learning for Sequential Data
 
-Welcome to the "Deep Learning for Sequential Data" repository! This project represents an in-depth exploration of deep learning techniques for handling sequential data, conducted as part of the coursework at the University de Toulon under the guidance of Professor Santiago.
+Welcome to the "Deep Learning for Sequential Data" repository! This project represents an in-depth exploration of deep learning techniques for handling sequential data, conducted as part of the coursework at the University de Toulon under the guidance of Santiago.
 
 ## Problem 1: RNNs on the Parity Task
 
@@ -43,4 +43,3 @@ Feel free to explore the provided code, experiment with different configurations
 
 ## License
 This project is licensed under the MIT License. See the [LICENSE](LICENSE) file for more details.
-```
